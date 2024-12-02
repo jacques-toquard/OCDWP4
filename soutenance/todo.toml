@@ -3,6 +3,7 @@ etapes = [
     "Réduire la dimension des images",
     "Optimiser la compression des images",
     "Minifier les fichiers JavaScript et CSS",
+    "Différer le chargement des scripts",
     "Différer le chargement des images hors écran (lazy loading)"
 ]
 
