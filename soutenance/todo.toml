@@ -1,0 +1,21 @@
+[performances]
+etapes = [
+    "Réduire la dimension des images",
+    "Optimiser la compression des images",
+    "Minifier les fichiers JavaScript et CSS",
+    "Différer le chargement des images hors écran (lazy loading)"
+]
+
+[accessibilite]
+etapes = [
+    "Ajouter des descriptions 'alt' pour toutes les images",
+    "Afficher la langue de la page",
+    "Ajouter des labels ARIA pour les contrôles interactifs"
+]
+
+[seo]
+etapes = [
+    "Optimiser les titres des pages (balises title)",
+    "Structurer le contenu avec des balises sémantiques HTML5 (tags h1, h2, h3...)",
+    "Implémenter les données structurées (Schema.org)"
+]
